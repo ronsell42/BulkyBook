@@ -29,7 +29,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 21:09:01 GMT"
+          "Value": "Sat, 15 Feb 2025 10:11:53 GMT"
         }
       ],
       "EndpointProperties": [
@@ -74,13 +74,95 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 21:09:01 GMT"
+          "Value": "Sat, 15 Feb 2025 10:11:53 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
           "Value": "sha256-HQV4VTyzxzh2/urfel7jNU5/5c1uyO3JHBq+ByW18/k="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootswatchTheme.css",
+      "AssetFile": "css/bootswatchTheme.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "324768"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0IrCCRINNw6RVTsHsPKkQiXS7yftPkLb/zvrqDzyIIE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 07:59:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0IrCCRINNw6RVTsHsPKkQiXS7yftPkLb/zvrqDzyIIE="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootswatchTheme.w87i0wwkh3.css",
+      "AssetFile": "css/bootswatchTheme.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "324768"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0IrCCRINNw6RVTsHsPKkQiXS7yftPkLb/zvrqDzyIIE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 07:59:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w87i0wwkh3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0IrCCRINNw6RVTsHsPKkQiXS7yftPkLb/zvrqDzyIIE="
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootswatchTheme.css"
         }
       ]
     },
